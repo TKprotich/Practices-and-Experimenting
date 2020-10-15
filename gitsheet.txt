@@ -1,0 +1,15 @@
+CREATE THE LINK repository ON GITHUB TO PUSH TO IT
+1. git init
+2. git status
+3. git add --all
+4. git commit -m "Third commit"
+5. git remote add origin remote repository URL: git remote add origin https://github.com/username/repository
+####Sets the new remote
+6. git remote -v
+######Verifies the new remote U
+7. git push -u origin main
+8. git pull
+
+
+9. git branch -M main
+10. git branch --set-upstream-to=origin/main main
