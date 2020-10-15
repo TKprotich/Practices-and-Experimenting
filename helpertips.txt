@@ -13,3 +13,6 @@ CREATE THE LINK repository ON GITHUB TO PUSH TO IT
 
 9. git branch -M main
 10. git branch --set-upstream-to=origin/main main
+
+# pip freeze > requirements.txt
+# pip install -r requirements.txt
