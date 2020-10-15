@@ -10,6 +10,8 @@ CREATE THE LINK repository ON GITHUB TO PUSH TO IT
 7. git push -u origin main
 8. git pull
 
+git rm -r --cached <folder>
+
 
 9. git branch -M main
 10. git branch --set-upstream-to=origin/main main
