@@ -1,0 +1,11 @@
+{
+  "name": "Hello Extensions",
+  "description" : "Base Level Extension",
+  "permissions": ["activeTab", "tabs", "declarativeContent", "storage"],
+  "version": "1.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "close.html",
+    "default_icon": "images.jpg"
+  }
+}
