@@ -1,0 +1,424 @@
+Soccer,"Premier League, Egypt",2nd half,83:11,Al Ahly,Aswan,2.0,0.0
+Soccer,"PES Latino Series, Copa Libertadores, Electronic Leagues",1st half,5:54,Santos (F_Mathi),Internacional (Luis_F),3.0,0.0
+Soccer,"Primera Division, Apertura, Paraguay",1st half,45:00,San Lorenzo,Olimpia Asuncion,0.0,2.0
+Soccer,"1. deild, Women, Iceland",1st half,45:00,Augnablik,Haukar,0.0,2.0
+Soccer,"3. deild, Iceland",Halftime,0,Ellidi,Alftanes,0.0,2.0
+Soccer,"Premier League, Egypt",2nd half,86:15,Al Ahly,Aswan,2.0,0.0
+Soccer,"PES Latino Series, Copa Libertadores, Electronic Leagues",2nd half,7:42,Santos (F_Mathi),Internacional (Luis_F),3.0,0.0
+Soccer,"Primera Division, Apertura, Paraguay",1st half,45:00,San Lorenzo,Olimpia Asuncion,0.0,2.0
+Soccer,"1. deild, Women, Iceland",Halftime,0,Augnablik,Haukar,0.0,2.0
+Soccer,"3. deild, Iceland",Halftime,0,Ellidi,Alftanes,0.0,2.0
+Soccer,"Premier League, Egypt",2nd half,89:15,Al Ahly,Aswan,2.0,0.0
+Soccer,"PES Latino Series, Copa Libertadores, Electronic Leagues",2nd half,10:40,Santos (F_Mathi),Internacional (Luis_F),3.0,0.0
+Soccer,"1. deild, Women, Iceland",Halftime,0,Augnablik,Haukar,0.0,2.0
+Soccer,"3. deild, Iceland",Halftime,0,Ellidi,Alftanes,0.0,2.0
+Soccer,"Premier League, Egypt",2nd half,90:00,Al Ahly,Aswan,2.0,0.0
+Soccer,"Segunda Division, Uruguay",1st half,38:33,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"1. deild, Women, Iceland",Halftime,0,Augnablik,Haukar,0.0,2.0
+Soccer,"3. deild, Iceland",Halftime,0,Ellidi,Alftanes,0.0,2.0
+Soccer,"Segunda Division, Uruguay",1st half,41:34,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"1. deild, Women, Iceland",Halftime,0,Augnablik,Haukar,0.0,2.0
+Soccer,"3. deild, Iceland",Halftime,0,Ellidi,Alftanes,0.0,2.0
+Soccer,"Segunda Division, Uruguay",1st half,44:35,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"Esports Battle - Night English Premier League,",2nd half,7:11,Manchester City FC (Kray),Liverpool FC (KRaftVK),0.0,2.0
+Soccer,"3. deild, Iceland",2nd half,46:30,Ellidi,Alftanes,0.0,2.0
+Soccer,"PES Latino Series, Copa Libertadores, Electronic Leagues",1st half,2:16,Alianza Lima (Dre_S),Vasco Da Gama (Au_Gusto),0.0,2.0
+Soccer,"1. deild, Women, Iceland",Halftime,0,Augnablik,Haukar,0.0,2.0
+Soccer,"Segunda Division, Uruguay",Halftime,0,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"PES Latino Series, Copa Libertadores, Electronic Leagues",1st half,5:31,Alianza Lima (Dre_S),Vasco Da Gama (Au_Gusto),0.0,2.0
+Soccer,"3. deild, Iceland",2nd half,49:59,Ellidi,Alftanes,0.0,2.0
+Soccer,"1. deild, Women, Iceland",Halftime,0,Augnablik,Haukar,0.0,2.0
+Soccer,"Segunda Division, Uruguay",Halftime,0,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"PES Latino Series, Copa Libertadores, Electronic Leagues",2nd half,7:40,Alianza Lima (Dre_S),Vasco Da Gama (Au_Gusto),0.0,2.0
+Soccer,"3. deild, Iceland",2nd half,52:47,Ellidi,Alftanes,0.0,2.0
+Soccer,"1. deild, Women, Iceland",2nd half,46:13,Augnablik,Haukar,0.0,2.0
+Soccer,"Esports Battle - Night English Premier League,",2nd half,4:45,Arsenal FC (Labotryas),Manchester City FC (Kray),2.0,0.0
+Soccer,"Segunda Division, Uruguay",Halftime,0,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"3. deild, Iceland",2nd half,55:47,Ellidi,Alftanes,0.0,2.0
+Soccer,"1. deild, Women, Iceland",2nd half,49:43,Augnablik,Haukar,0.0,2.0
+Soccer,"Segunda Division, Uruguay",Halftime,0,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Table Tennis,"Ukraine Win Cup, International",3rd set,0,"Shapoval, Aleksandr","Smetenko, Vadim",2.0,0.0
+Soccer,"1. deild, Women, Iceland",2nd half,52:44,Augnablik,Haukar,0.0,2.0
+Soccer,"Segunda Division, Uruguay",Halftime,0,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"1. deild, Women, Iceland",2nd half,55:44,Augnablik,Haukar,0.0,2.0
+Soccer,"Segunda Division, Uruguay",Halftime,0,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"1. deild, Women, Iceland",2nd half,58:45,Augnablik,Haukar,0.0,2.0
+Soccer,"Segunda Division, Uruguay",2nd half,47:18,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"Esports Battle - Night Retro International,",2nd half,6:51,England (Fearggwp),France (Flewless_Phoenix),0.0,2.0
+Soccer,"1. deild, Women, Iceland",2nd half,61:45,Augnablik,Haukar,0.0,2.0
+Soccer,"Esports Battle - Night English Premier League,",2nd half,4:50,Manchester United FC (Upcake22),Arsenal FC (Labotryas),0.0,2.0
+Soccer,"Segunda Division, Uruguay",2nd half,50:20,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Soccer,"1. deild, Women, Iceland",2nd half,64:46,Augnablik,Haukar,0.0,2.0
+Ice Hockey,"Liga Pro, Russia",1st period,2:17,AIS Banda,Chetyre Ledokola,0.0,2.0
+Soccer,"Segunda Division, Uruguay",2nd half,53:48,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Ice Hockey,"Liga Pro, Russia",1st period,4:14,AIS Banda,Chetyre Ledokola,0.0,2.0
+Soccer,"Segunda Division, Uruguay",2nd half,56:49,Racing Club Mdeo.,Villa Teresa,2.0,0.0
+Ice Hockey,"Liga Pro, Russia",1st period,7:11,AIS Banda,Chetyre Ledokola,0.0,2.0
+Soccer,"PES Latino Series, Copa Libertadores, Electronic Leagues",2nd half,10:03,Vasco Da Gama (Au_Gusto),Santos (F_Mathi),0.0,2.0
+Table Tennis,"Liga Pro, Russia",Second break,0,"Soldatov, Ivan","Klavdenkov, Alexander",2.0,0.0
+Table Tennis,"Liga Pro, Russia",3rd set,0,"Bychkov, Stanislav","Vyaznikov, Sergey",0.0,2.0
+Table Tennis,"Ukraine Win Cup, International",3rd set,0,"Chilikin, Aleksandr","Kovalenko, Oleg",2.0,0.0
+Table Tennis,"Liga Pro, Russia",3rd set,0,"Putilovsky, Vadim","Ilyukhin, Evgeniy",0.0,2.0
+Soccer,"PES Latino Series, Copa Libertadores, Electronic Leagues",2nd half,6:26,Santos (F_Mathi),Universidad Catolica (Cassiano_F),2.0,0.0
+Table Tennis,"Liga Pro, Russia",3rd set,0,"Putilovsky, Vadim","Ilyukhin, Evgeniy",0.0,2.0
+Ice Hockey,"Cyber World Cup, Electronic Leagues",3rd period,9:05,Sweden (Zazabak),Canada (Aphex),4.0,0.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,7:44,Manchester City FC (Dimqaa),Manchester United (Aventon),0.0,2.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,7:46,Everton FC (Fasqer),Wolverhampton Wanderers FC (Bobby),2.0,0.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,54:08,Pfk Sochi SRL,FK Rubin Kazan SRL,0.0,2.0
+Soccer,"England Cyber Stars League, Electronic Leagues",1st half,4:10,Arsenal FC (CarlWhizzer),Liverpool FC (Unknown),2.0,0.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,57:10,Pfk Sochi SRL,FK Rubin Kazan SRL,0.0,2.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,6:39,Arsenal FC (CarlWhizzer),Liverpool FC (Unknown),2.0,0.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,7:12,Manchester United (Aventon),Tottenham Hotspur FC (Quavo),0.0,2.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,60:11,Pfk Sochi SRL,FK Rubin Kazan SRL,0.0,2.0
+Soccer,"Esports Battle - Spain La Liga,",1st half,3:03,FC Barcelona (Plevis),Atletico Madrid (Jkey),2.0,0.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,63:12,Pfk Sochi SRL,FK Rubin Kazan SRL,0.0,2.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,9:24,Wolverhampton Wanderers FC (Bobby),Leicester City FC (Jenko),3.0,0.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,70:22,Krasnodar SRL,PFK Arsenal Tula SRL,2.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",1st half,6:00,FC Porto (Zeus),Bayern München (Moebius),3.0,0.0
+Soccer,"Esports Battle - English Premier League,",1st half,3:08,Tottenham Hotspur FC (Dangerdim77),Arsenal FC (Orlovsky1),2.0,0.0
+Ice Hockey,"Liga Pro, Russia",1st period,2:35,Proletari Hokkeia,Kalininsky Front,0.0,2.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,8:11,FC Porto (Zeus),Bayern München (Moebius),4.0,0.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,73:00,Krasnodar SRL,PFK Arsenal Tula SRL,3.0,0.0
+Soccer,"England Cyber Stars League, Electronic Leagues",Halftime,0,Manchester United (Aventon),Liverpool FC (Unknown),0.0,2.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,79:26,Krasnodar SRL,PFK Arsenal Tula SRL,3.0,0.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,6:24,Everton FC (Fasqer),West Ham United (Ishking11),0.0,2.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,82:27,Krasnodar SRL,PFK Arsenal Tula SRL,3.0,0.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,9:36,Everton FC (Fasqer),West Ham United (Ishking11),0.0,2.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,9:22,Liverpool FC (Unknown),Manchester City FC (Dimqaa),2.0,0.0
+Soccer,"England Cyber Stars League, Electronic Leagues",2nd half,5:18,Leicester City FC (Jenko),Everton FC (Fasqer),3.0,0.0
+Soccer,"Esports Battle - Spain La Liga,",2nd half,5:33,Real Madrid (Lomik),FC Barcelona (Plevis),0.0,2.0
+Soccer,"GT G-26 League, Electronic Leagues",1st half,6:00,CF Valencia (Dinwin),Borussia Dortmund (Teok),2.0,0.0
+Soccer,"Liga Pro,",2nd half,8:15,Ina InactiveTV,EZ1 EZ1D 11,0.0,2.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,8:09,CF Valencia (Dinwin),Borussia Dortmund (Teok),2.0,0.0
+Soccer,"Liga Pro,",2nd half,11:43,Ina InactiveTV,EZ1 EZ1D 11,0.0,2.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",1st half,4:58,CF Valencia (CarlWhizzer),Atletico Madrid (Aventon),2.0,0.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",1st half,5:00,Sevilla FC (Quavo),Real Madrid (Dimqaa),0.0,2.0
+Futsal,"Superliga, Russia",1st half,16:37,Viz Sinara,Yugra Yugorsk,0.0,2.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",2nd half,7:18,CF Valencia (CarlWhizzer),Atletico Madrid (Aventon),2.0,0.0
+Futsal,"Superliga, Russia",1st half,18:04,Viz Sinara,Yugra Yugorsk,0.0,2.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",2nd half,6:20,Athletic Club (Bobby),Getafe CF (Jenko),3.0,0.0
+Soccer,"Liga Pro,",2nd half,11:07,EZ1 EZ1D 11,Tes Tundra,3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,11:28,Bayern München (Moebius),Sl Benfica (Paularasyou),0.0,2.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",2nd half,6:20,Athletic Club (Bobby),Getafe CF (Jenko),3.0,0.0
+Soccer,"Liga Pro,",2nd half,11:07,EZ1 EZ1D 11,Tes Tundra,3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,11:28,Bayern München (Moebius),Sl Benfica (Paularasyou),0.0,2.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",2nd half,6:57,Athletic Club (Bobby),Real Sociedad (Miller),3.0,0.0
+Futsal,"Superliga, Russia",2nd half,26:48,Viz Sinara,Yugra Yugorsk,0.0,2.0
+Ice Hockey,"Cyber NHL League, Electronic Leagues",2nd period,6:25,New York Islanders (Zazabak),Philadelphia Flyers (Magistr),3.0,0.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",1st half,2:41,Sevilla FC (Quavo),CF Valencia (CarlWhizzer),0.0,2.0
+Futsal,"Superliga, Russia",2nd half,29:14,Viz Sinara,Yugra Yugorsk,0.0,2.0
+Ice Hockey,"Cyber NHL League, Electronic Leagues",3rd period,8:26,New York Islanders (Zazabak),Philadelphia Flyers (Magistr),3.0,0.0
+Futsal,"Superliga, Russia",2nd half,31:31,Viz Sinara,Yugra Yugorsk,0.0,2.0
+Soccer,"Esports Battle - German Bundesliga,",1st half,4:00,Bayer 04 Leverkusen (Jkey),Borussia Monchengladbach (Plevis),2.0,0.0
+Soccer,"Esports Battle - German Bundesliga,",1st half,4:00,RB Leipzig (Mr.Jab),FC Bayern Munich (Lomik),2.0,0.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",2nd half,9:29,Atletico Madrid (Aventon),Real Madrid (Dimqaa),0.0,2.0
+Soccer,"Esports Battle - German Bundesliga,",2nd half,6:51,RB Leipzig (Mr.Jab),FC Bayern Munich (Lomik),2.0,0.0
+Soccer,"Gold Coast Veto League 1 Reserve,",2nd half,67:09,Mudgeeraba,Tweed United (R),0.0,2.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",2nd half,9:34,Athletic Club (Bobby),Villarreal (Ishking11),2.0,0.0
+Soccer,"Liga Pro,",2nd half,9:13,Ina InactiveTV,Tes Tundra,0.0,2.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",2nd half,5:54,Athletic Club (Bobby),Real Betis (Fasqer),2.0,0.0
+Soccer,"Sunshine Coast Premier League Reserve,",2nd half,62:16,Kawana SC,Caloundra FC,0.0,2.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,7:37,FC Porto (Zeus),Sl Benfica (Paularasyou),3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,7:26,Glasgow Rangers (Chris X),Olympique Lyonnais (Spash),3.0,0.0
+Soccer,"Cyber Europa League, Electronic Leagues",2nd half,7:26,Feyenoord Rotterdam (Miller),PSV Eindhoven (Fasqer),0.0,2.0
+Soccer,"Cyber Europa League, Electronic Leagues",2nd half,8:10,CSKA Moscow (Ishking11),PSV Eindhoven (Fasqer),2.0,0.0
+Ice Hockey,"Cyber NHL League, Electronic Leagues",2nd period,7:36,Philadelphia Flyers (Magistr),Winnipeg Jets (Aphex),2.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",1st half,4:10,Sl Benfica (Paularasyou),Glasgow Rangers (Chris X),3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",1st half,3:59,PSV Eindhoven (Kostaslfc),FC Porto (Zeus),0.0,2.0
+Ice Hockey,"Cyber NHL League, Electronic Leagues",3rd period,9:45,Philadelphia Flyers (Magistr),Winnipeg Jets (Aphex),3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,6:07,Sl Benfica (Paularasyou),Glasgow Rangers (Chris X),3.0,0.0
+Soccer,"Esports Battle - English Premier League,",1st half,3:35,Manchester United FC (White_Boy1927),Manchester City FC (Pablik),0.0,2.0
+Soccer,"Cyber Europa League, Electronic Leagues",2nd half,5:18,Dynamo Kyiv (Jenko),Feyenoord Rotterdam (Miller),2.0,0.0
+Basketball,"NBA Cyber - Western Conference, Electronic Leagues",1st quarter,0:05,San Antonio Spurs (88Fireburn),Utah Jazz (Zod),0.0,2.0
+Soccer,"Club Friendly Games, International Clubs",2nd half,50:00,Loipersdorf,USV Raika Unterlamm,2.0,0.0
+Baseball,"MLB, USA",Break top 2 bottom 1,0,Boston,Philadelphia,0.0,2.0
+Soccer,"Club Friendly Games, International Clubs",2nd half,53:01,Loipersdorf,USV Raika Unterlamm,2.0,0.0
+Baseball,"MLB, USA",2nd inning top,0,Boston,Philadelphia,0.0,2.0
+Soccer,"Club Friendly Games, International Clubs",2nd half,55:31,Loipersdorf,USV Raika Unterlamm,2.0,0.0
+Baseball,"MLB, USA",2nd inning top,0,Boston,Philadelphia,0.0,2.0
+Soccer,"Club Friendly Games, International Clubs",2nd half,59:06,Loipersdorf,USV Raika Unterlamm,3.0,0.0
+Baseball,"MLB, USA",2nd inning bottom,0,Boston,Philadelphia,0.0,2.0
+Soccer,"Club Friendly Games, International Clubs",2nd half,62:02,Loipersdorf,USV Raika Unterlamm,3.0,0.0
+Baseball,"MLB, USA",2nd inning bottom,0,Boston,Philadelphia,0.0,2.0
+Soccer,"Club Friendly Games, International Clubs",2nd half,65:03,Loipersdorf,USV Raika Unterlamm,3.0,0.0
+Baseball,"MLB, USA",2nd inning bottom,0,Boston,Philadelphia,0.0,2.0
+Soccer,"Club Friendly Games, International Clubs",2nd half,68:03,Loipersdorf,USV Raika Unterlamm,3.0,0.0
+Baseball,"MLB, USA",2nd inning bottom,0,Boston,Philadelphia,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,90:00,Maccabi Tel Aviv,Riga FC,2.0,0.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,90:00,Celje,Dundalk,2.0,0.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,86:55,Dinamo Tbilisi,Tirana,0.0,2.0
+Soccer,"Canadian Premier League, Canada",2nd half,82:43,Atletico Ottawa,Valour FC,0.0,2.0
+Baseball,"MLB, USA",3rd inning bottom,0,Boston,Philadelphia,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,90:00,Celje,Dundalk,2.0,0.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,89:25,Dinamo Tbilisi,Tirana,0.0,2.0
+Soccer,"Canadian Premier League, Canada",2nd half,85:15,Atletico Ottawa,Valour FC,0.0,2.0
+Soccer,"1st deild, Iceland",2nd half,69:29,Fram R,Magni,3.0,0.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,68:04,Connahs Quay,Sarajevo,0.0,2.0
+Soccer,"1st deild, Iceland",2nd half,72:17,Fram R,Magni,3.0,0.0
+Soccer,"1st deild, Iceland",2nd half,71:07,Thor A,Leiknir F,4.0,0.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,70:35,Connahs Quay,Sarajevo,0.0,2.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,9:03,FC Kopenhagen (Aibothard),Juventus FC (Ben),2.0,0.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,74:07,Connahs Quay,Sarajevo,0.0,2.0
+Soccer,"Italy Cyber Stars League, Electronic Leagues",2nd half,9:24,Udinese Calcio (Olom),US Sassuolo Calcio (Libra),3.0,0.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,76:38,Connahs Quay,Sarajevo,0.0,2.0
+Soccer,"Italy Cyber Stars League, Electronic Leagues",2nd half,9:25,FC Inter Milano (Walker),SSC Napoli (Stig),0.0,2.0
+Soccer,"1st deild, Iceland",2nd half,81:31,Fram R,Magni,3.0,0.0
+Soccer,"UEFA Champions League, International Clubs",1st half,35:59,LYON,BAYERN MUNICH,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,80:10,Connahs Quay,Sarajevo,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,82:21,Sheriff Tiraspol,Fola Esch,2.0,0.0
+Soccer,"Primera Division, Uruguay",2nd half,78:53,Dep Maldonado,Penarol,2.0,0.0
+Soccer,"1st deild, Iceland",2nd half,84:31,Fram R,Magni,3.0,0.0
+Soccer,"UEFA Champions League, International Clubs",1st half,38:57,LYON,BAYERN MUNICH,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,82:41,Connahs Quay,Sarajevo,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,85:39,Sheriff Tiraspol,Fola Esch,2.0,0.0
+Soccer,"Primera Division, Uruguay",2nd half,81:51,Dep Maldonado,Penarol,2.0,0.0
+Soccer,"UEFA Champions League, International Clubs",1st half,42:05,LYON,BAYERN MUNICH,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,86:17,Connahs Quay,Sarajevo,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,88:24,Sheriff Tiraspol,Fola Esch,2.0,0.0
+Soccer,"Primera Division, Uruguay",2nd half,85:22,Dep Maldonado,Penarol,2.0,0.0
+Soccer,"1st deild, Iceland",2nd half,90:00,Fram R,Magni,3.0,0.0
+Soccer,"Promotion League, Switzerland",2nd half,90:00,Etoile Carouge,Stade Nyonnais,2.0,0.0
+Soccer,"UEFA Champions League, International Clubs",Halftime,0,LYON,BAYERN MUNICH,0.0,2.0
+Soccer,"UEFA Champions League, International Clubs",2nd half,89:14,Connahs Quay,Sarajevo,0.0,2.0
+Soccer,"U20 Queensland National Premier League,",2nd half,64:06,Redlands Utd,Peninsula Power FC,5.0,0.0
+Ice Hockey,"Cyber NHL League, Electronic Leagues",1st period,4:00,Arizona Coyotes (Mrpanda),Winnipeg Jets (Zazabak),2.0,0.0
+Soccer,"Esports Battle - English Premier League,",2nd half,5:10,Manchester City FC (White_Boy1927),Arsenal FC (MooneyCB),0.0,2.0
+Ice Hockey,"Club Friendly Games U21, International",2nd period,26:42,HC Olomouc,Mountfield HK,0.0,2.0
+Ice Hockey,"Cyber NHL League, Electronic Leagues",2nd period,6:35,Arizona Coyotes (Mrpanda),Winnipeg Jets (Zazabak),2.0,0.0
+Soccer,"U20 Queensland National Premier League,",2nd half,67:14,Redlands Utd,Peninsula Power FC,5.0,0.0
+Rugby,"NRL, Rugby League",2nd half,42:08,Parramatta,Melbourne,12.0,0.0
+Ice Hockey,"Club Friendly Games U21, International",2nd period,29:10,HC Olomouc,Mountfield HK,0.0,2.0
+Rugby,"NRL, Rugby League",2nd half,57:42,Parramatta,Melbourne,12.0,0.0
+Soccer,"Cyber Europa League, Electronic Leagues",1st half,3:57,Sevilla FC (Ishking11),Wolverhampton Wanderers (Olom),0.0,2.0
+Rugby,"NRL, Rugby League",2nd half,67:37,Parramatta,Melbourne,14.0,0.0
+Soccer,"Esports Battle - English Premier League,",1st half,4:00,Liverpool FC (Pablik),Manchester City FC (White_Boy1927),0.0,2.0
+Soccer,"Chinese Super League, China",1st half,37:28,Shenzhen Honzuan,Dalian Yifang,2.0,0.0
+Soccer,"France Cyber Stars League, Electronic Leagues",2nd half,6:40,FC Girondins Bourdeaux (Vito),Montpellier HSC (Ever),0.0,2.0
+Basketball,"NBA Cyber - Eastern Conference, Electronic Leagues",1st quarter,0:10,Detroit Pistons (Zod),Washington Wizards (Bepado),0.0,2.0
+Soccer,"Chinese Super League, China",Halftime,0,Shenzhen Honzuan,Dalian Yifang,2.0,0.0
+Ice Hockey,"Cyber World Cup, Electronic Leagues",3rd period,9:47,Austria (Supernova),Norway (Jet),0.0,2.0
+Soccer,"Chinese Super League, China",Halftime,0,Shenzhen Honzuan,Dalian Yifang,2.0,0.0
+Soccer,"Esports Battle - Retro International,",1st half,4:00,Italy (White_Boy1927),Brazil (MooneyCB),0.0,2.0
+Soccer,"Chinese Super League, China",2nd half,47:44,Shenzhen Honzuan,Dalian Yifang,2.0,0.0
+Soccer,"Esports Battle - Retro International,",2nd half,6:56,Italy (White_Boy1927),Brazil (MooneyCB),0.0,2.0
+Ice Hockey,"Comet Division, Russia",1st period,8:27,Ershistyye Tigry,Stalker,3.0,0.0
+Soccer,"Esports Battle - Retro International,",1st half,1:28,England (Pablik),Netherlands (Olle),2.0,0.0
+Soccer,"Esports Battle - Champions League,",2nd half,6:42,FC Barcelona (D1psen),Liverpool FC (Nikkitta),0.0,2.0
+Ice Hockey,"Comet Division, Russia",2nd period,11:10,Ershistyye Tigry,Stalker,3.0,0.0
+Ice Hockey,"Cyber World Cup, Electronic Leagues",2nd period,7:41,Norway (Jet),Latvia (Keks),0.0,2.0
+Soccer,"Cyber World Cup, Electronic Leagues",2nd half,9:12,Brazil (Den1Bravo),Belgium (Ever),2.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,60:30,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,61:58,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,21:09,Riga FC,Tukums 2000,2.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,63:31,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,65:00,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"PFL, West, Russia",2nd half,57:21,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,24:13,Riga FC,Tukums 2000,2.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,66:32,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,68:02,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"PFL, West, Russia",2nd half,60:22,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,27:12,Riga FC,Tukums 2000,2.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,69:32,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,71:03,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"PFL, West, Russia",2nd half,63:24,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,30:14,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,72:33,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,74:05,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,33:15,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,75:34,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,77:07,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"PFL, West, Russia",2nd half,69:27,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,36:03,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,78:34,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,80:08,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"PFL, West, Russia",2nd half,72:32,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,39:19,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Premier League, Mongolia",2nd half,80:10,Athletic 220,FC Ulaanbaatar,2.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,81:35,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,82:51,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"Cyber Europa League, Electronic Leagues",2nd half,8:21,Borussia Monchengladbach (Libra),Sevilla FC (Den1Bravo),1.0,2.0
+Soccer,"PFL, Center, Russia",2nd half,81:49,Khimki-M,Sokol Saratov,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,42:20,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Premier League, Mongolia",2nd half,83:11,Athletic 220,FC Ulaanbaatar,2.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,84:58,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,86:12,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"PFL, Center, Russia",2nd half,84:51,Khimki-M,Sokol Saratov,1.0,2.0
+Soccer,"Virsliga, Latvia",1st half,45:00,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Premier League, Mongolia",2nd half,86:13,Athletic 220,FC Ulaanbaatar,2.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,87:36,KIL/Hemne,Fart,5.0,0.0
+Soccer,"K-League 1, Republic of Korea",2nd half,89:13,Seongnam,Ulsan Hyundai,1.0,2.0
+Soccer,"3 Division West Group B,",2nd half,90:00,Tampere,AC Estudiantes,1.0,2.0
+Soccer,"PFL, Center, Russia",2nd half,87:52,Khimki-M,Sokol Saratov,1.0,2.0
+Soccer,"PFL, West, Russia",2nd half,81:34,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Virsliga, Latvia",Halftime,0,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Premier League, Mongolia",2nd half,89:15,Athletic 220,FC Ulaanbaatar,2.0,0.0
+Ice Hockey,"Cyber World Cup, Electronic Leagues",3rd period,9:59,Latvia (Magistr),Belarus (Aphex),5.0,0.0
+Soccer,"1st Division, Women, Norway",2nd half,90:00,KIL/Hemne,Fart,5.0,0.0
+Soccer,"PFL, Center, Russia",2nd half,90:00,Khimki-M,Sokol Saratov,1.0,2.0
+Soccer,"PFL, West, Russia",2nd half,84:36,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Virsliga, Latvia",Halftime,0,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Premier League, Mongolia",2nd half,90:00,Athletic 220,FC Ulaanbaatar,3.0,0.0
+Soccer,"PFL, West, Russia",2nd half,87:37,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Regionalliga Northeast, Germany Amateur",2nd half,65:03,BFC Dynamo,Berlin II,1.0,2.0
+Soccer,"Virsliga, Latvia",Halftime,0,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Esports Battle - Europa League,",2nd half,7:44,FC Porto (Foggy),CF Valencia (Dangerdim77),2.0,0.0
+Soccer,"PFL, West, Russia",2nd half,90:00,Zenit II,Rodina Moscow,1.0,2.0
+Soccer,"Regionalliga Northeast, Germany Amateur",2nd half,68:03,BFC Dynamo,Berlin II,1.0,2.0
+Soccer,"Virsliga, Latvia",Halftime,0,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Club Friendly Games, Women,",Halftime,0,Frankfurt,Andernach,4.0,0.0
+Soccer,"Regionalliga Northeast, Germany Amateur",2nd half,71:04,BFC Dynamo,Berlin II,1.0,2.0
+Soccer,"Virsliga, Latvia",Halftime,0,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Regionalliga Northeast, Germany Amateur",2nd half,74:11,BFC Dynamo,Berlin II,1.0,2.0
+Soccer,"Virsliga, Latvia",2nd half,46:39,Riga FC,Tukums 2000,3.0,0.0
+Soccer,"Cyber Europa League, Electronic Leagues",1st half,5:00,Wolverhampton Wanderers (Kiser),FC Porto (Supernova),2.0,0.0
+Soccer,"Regionalliga Northeast, Germany Amateur",2nd half,77:05,BFC Dynamo,Berlin II,1.0,2.0
+Soccer,"Virsliga, Latvia",2nd half,65:31,Valmiera,Jelgava,2.0,0.0
+Soccer,"Premier League, Faroe Islands",2nd half,69:38,IF Fuglafjordur,Vikingur Gota,1.0,2.0
+Soccer,"Virsliga, Latvia",2nd half,68:33,Valmiera,Jelgava,2.0,0.0
+Soccer,"Premier League, Faroe Islands",2nd half,72:15,IF Fuglafjordur,Vikingur Gota,1.0,2.0
+Soccer,"Virsliga, Latvia",2nd half,71:35,Valmiera,Jelgava,2.0,0.0
+Soccer,"Premier League, Egypt",2nd half,64:20,El Hodood,Ismaily,1.0,2.0
+Soccer,"Premier League, Faroe Islands",2nd half,75:16,IF Fuglafjordur,Vikingur Gota,1.0,2.0
+Soccer,"Virsliga, Latvia",2nd half,74:36,Valmiera,Jelgava,2.0,0.0
+Soccer,"Premier League, Egypt",2nd half,67:34,El Hodood,Ismaily,1.0,2.0
+Soccer,"Premier League, Faroe Islands",2nd half,78:48,IF Fuglafjordur,Vikingur Gota,1.0,2.0
+Soccer,"Liga I, Romania",2nd half,75:30,Clinceni,CFR Cluj,1.0,2.0
+Soccer,"Virsliga, Latvia",2nd half,77:38,Valmiera,Jelgava,2.0,0.0
+Soccer,"Premier League, Egypt",2nd half,70:35,El Hodood,Ismaily,1.0,2.0
+Soccer,"Premier League, Faroe Islands",2nd half,81:50,IF Fuglafjordur,Vikingur Gota,1.0,2.0
+Soccer,"Liga I, Romania",2nd half,78:31,Clinceni,CFR Cluj,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,54:51,AIK,Helsingborg,2.0,0.0
+Soccer,"Virsliga, Latvia",2nd half,80:48,Valmiera,Jelgava,2.0,0.0
+Soccer,"Premier League, Egypt",2nd half,73:06,El Hodood,Ismaily,1.0,2.0
+Soccer,"Premier League, Faroe Islands",2nd half,84:22,IF Fuglafjordur,Vikingur Gota,1.0,2.0
+Soccer,"Liga I, Romania",2nd half,81:32,Clinceni,CFR Cluj,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,57:51,AIK,Helsingborg,2.0,0.0
+Soccer,"Ekstraklasa, Poland",2nd half,51:22,GORNIK ZABRZE,TS Podbeskidzie,3.0,0.0
+Soccer,"Virsliga, Latvia",2nd half,83:42,Valmiera,Jelgava,2.0,0.0
+Soccer,"Premier League, Faroe Islands",2nd half,87:24,IF Fuglafjordur,Vikingur Gota,1.0,2.0
+Soccer,"Liga I, Romania",2nd half,84:32,Clinceni,CFR Cluj,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,60:52,AIK,Helsingborg,2.0,0.0
+Soccer,"Virsliga, Latvia",2nd half,86:44,Valmiera,Jelgava,2.0,0.0
+Soccer,"Premier League, Faroe Islands",2nd half,90:00,IF Fuglafjordur,Vikingur Gota,1.0,2.0
+Soccer,"Liga I, Romania",2nd half,87:03,Clinceni,CFR Cluj,1.0,2.0
+Soccer,"Premium Liiga, Estonia",2nd half,59:46,T. Legion,Flora,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,64:03,AIK,Helsingborg,2.0,0.0
+Soccer,"Virsliga, Latvia",2nd half,89:46,Valmiera,Jelgava,2.0,0.0
+Soccer,"Liga I, Romania",2nd half,90:00,Clinceni,CFR Cluj,1.0,2.0
+Soccer,"1st Division, Cyprus",2nd half,89:04,Ol. Nicosia,AEL Limassol,1.0,2.0
+Soccer,"Premium Liiga, Estonia",2nd half,63:02,T. Legion,Flora,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,67:23,AIK,Helsingborg,2.0,0.0
+Soccer,"Premium Liiga, Estonia",2nd half,66:05,T. Legion,Flora,1.0,2.0
+Soccer,"1. HNL, Croatia",Halftime,0,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,70:24,AIK,Helsingborg,2.0,0.0
+Soccer,"Premium Liiga, Estonia",2nd half,69:07,T. Legion,Flora,1.0,2.0
+Soccer,"1. HNL, Croatia",Halftime,0,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,73:24,AIK,Helsingborg,2.0,0.0
+Soccer,"Premium Liiga, Estonia",2nd half,72:09,T. Legion,Flora,1.0,2.0
+Soccer,"1. HNL, Croatia",2nd half,45:35,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,76:16,AIK,Helsingborg,2.0,0.0
+Soccer,"1. Liga, Czech Republic",1st half,31:02,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"Premium Liiga, Estonia",2nd half,74:41,T. Legion,Flora,1.0,2.0
+Soccer,"1. HNL, Croatia",2nd half,48:36,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,79:25,AIK,Helsingborg,2.0,0.0
+Soccer,"1. Liga, Czech Republic",1st half,34:19,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,51:37,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,82:26,AIK,Helsingborg,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,54:37,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,85:27,AIK,Helsingborg,2.0,0.0
+Soccer,"Primera Division, Uruguay",2nd half,77:24,Torque,Boston River,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,57:38,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,88:27,AIK,Helsingborg,2.0,0.0
+Soccer,"Primera Division, Uruguay",2nd half,80:55,Torque,Boston River,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,60:39,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Allsvenskan, Sweden",2nd half,90:00,AIK,Helsingborg,2.0,0.0
+Soccer,"Primera Division, Uruguay",2nd half,83:55,Torque,Boston River,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,63:45,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Primera Division, Uruguay",2nd half,86:56,Torque,Boston River,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,66:40,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Primera Division, Uruguay",2nd half,90:00,Torque,Boston River,2.0,0.0
+Soccer,"Canadian Premier League, Canada",1st half,17:14,Atletico Ottawa,Edmonton,2.0,0.0
+Soccer,"1. Liga, Czech Republic",Halftime,0,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,70:10,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Canadian Premier League, Canada",1st half,20:20,Atletico Ottawa,Edmonton,2.0,0.0
+Soccer,"1. Liga, Czech Republic",Halftime,0,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,73:11,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Canadian Premier League, Canada",1st half,23:15,Atletico Ottawa,Edmonton,2.0,0.0
+Soccer,"1. Liga, Czech Republic",Halftime,0,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,76:12,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Canadian Premier League, Canada",1st half,26:15,Atletico Ottawa,Edmonton,2.0,0.0
+Soccer,"1. Liga, Czech Republic",Halftime,0,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,79:12,Osijek,Hajduk Split,1.0,2.0
+Soccer,"1. Liga, Czech Republic",2nd half,47:11,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"Canadian Premier League, Canada",1st half,29:46,Atletico Ottawa,Edmonton,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,82:29,Osijek,Hajduk Split,1.0,2.0
+Soccer,"1. Liga, Czech Republic",2nd half,50:12,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"Canadian Premier League, Canada",1st half,32:46,Atletico Ottawa,Edmonton,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,85:43,Osijek,Hajduk Split,1.0,2.0
+Soccer,"1. Liga, Czech Republic",2nd half,53:12,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"Canadian Premier League, Canada",1st half,35:24,Atletico Ottawa,Edmonton,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,88:44,Osijek,Hajduk Split,1.0,2.0
+Soccer,"1. Liga, Czech Republic",2nd half,56:13,Bohemians 1905,MLADA BOLESLAV,2.0,0.0
+Soccer,"League Cup, Premier, Israel",1st half,45:00,H. Hadera,H Haifa,2.0,0.0
+Soccer,"Canadian Premier League, Canada",1st half,38:48,Atletico Ottawa,Edmonton,2.0,0.0
+Soccer,"1. HNL, Croatia",2nd half,90:00,Osijek,Hajduk Split,1.0,2.0
+Soccer,"Srpska Liga, Zapad,",2nd half,80:54,Sloboda,FK Bane Raska,3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,7:33,Leipzig (Panica),Arsenal FC (Marley),2.0,0.0
+Ice Hockey,"Cyber NHL League, Electronic Leagues",2nd period,7:01,Detroit Red Wings (Magistr),Chicago Blackhawks (Jet),3.0,0.0
+Ice Hockey,"Cyber NHL League, Electronic Leagues",3rd period,9:36,New York Islanders (Aphex),Florida Panthers (Spursmax),1.0,2.0
+Soccer,"GT G-26 League, Electronic Leagues",1st half,6:00,AC Milan (Val),Leipzig (Panica),2.0,0.0
+Soccer,"Spain Cyber Stars League, Electronic Leagues",1st half,4:34,Sevilla FC (Walker),CF Valencia (Specialist),1.0,2.0
+Soccer,"Eerste Divisie, Netherlands",2nd half,69:01,Breda,JONG AZ ALKMAAR,4.0,0.0
+Baseball,"MLB, USA",1st inning bottom,0,Houston,Oakland,3.0,0.0
+Soccer,"PES Latino Series, Copa America, Electronic Leagues",2nd half,8:22,Venezuela (Vinicai_),Peru (Cassiano_F),1.0,2.0
+Baseball,"MLB, USA",2nd inning bottom,0,Houston,Oakland,3.0,0.0
+Soccer,"France Cyber Stars League, Electronic Leagues",2nd half,8:32,Olympique Marseille (Olom),LOSC Lille (Baphomet),2.0,0.0
+Soccer,"Brasiliense, Brazil",2nd half,88:22,Gama,Brasiliense,2.0,0.0
+Soccer,"France Cyber Stars League, Electronic Leagues",2nd half,8:16,AS Monaco FC (Skripp),Paris Saint-Germain (Vito),1.0,2.0
+Baseball,"MLB, USA",3rd inning bottom,0,Houston,Oakland,3.0,0.0
+Soccer,"France Cyber Stars League, Electronic Leagues",2nd half,8:53,Olympique Lyonnais (Kiser),LOSC Lille (Baphomet),2.0,0.0
+Soccer,"France Cyber Stars League, Electronic Leagues",2nd half,8:46,AS Monaco FC (Skripp),Olympique Marseille (Olom),2.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",1st half,5:58,Sl Benfica (Paularasyou),FC Porto (Zeus),2.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",1st half,6:00,Leipzig (Panica),Glasgow Rangers (Chris X),1.0,2.0
+Baseball,"MLB, USA",3rd inning bottom,0,Houston,Oakland,3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,7:15,Leipzig (Panica),Glasgow Rangers (Chris X),1.0,2.0
+Baseball,"MLB, USA",Break top 4 bottom 3,0,Houston,Oakland,3.0,0.0
+Baseball,"MLB, USA",Extra inning top,0,St. Louis,Cleveland,1.0,2.0
+Baseball,"MLB, USA",4th inning top,0,Houston,Oakland,3.0,0.0
+Baseball,"MLB, USA",Extra inning top,0,St. Louis,Cleveland,1.0,2.0
+Baseball,"MLB, USA",4th inning top,0,Houston,Oakland,3.0,0.0
+Baseball,"MLB, USA",Extra inning top,0,St. Louis,Cleveland,1.0,2.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,9:00,Ajax Amsterdam (Cobra4),FC Barcelona (Ak),3.0,0.0
+Soccer,"U20 NSW Premier League, Australia",2nd half,70:48,Sydney United,Wollongong Wolves,2.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,8:43,Juventus FC (Ben),Atletico Madrid (Captainx),1.0,2.0
+Soccer,"U20 NSW Premier League, Australia",2nd half,74:19,Sydney United,Wollongong Wolves,2.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,11:53,Juventus FC (Ben),Atletico Madrid (Captainx),1.0,2.0
+Soccer,"Germany Cyber Stars League, Electronic Leagues",1st half,5:00,FC Koln (Ever),Werder Bremen (Bobby),3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,7:10,Juventus FC (Ben),Olympique Marseille (Legolas),1.0,2.0
+Soccer,"Germany Cyber Stars League, Electronic Leagues",2nd half,7:42,FC Koln (Ever),Werder Bremen (Bobby),3.0,0.0
+Soccer,"Germany Cyber Stars League, Electronic Leagues",2nd half,7:36,Borussia Dortmund (Quavo),Bayer 04 Leverkusen (Specialist),3.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,10:32,Juventus FC (Ben),Olympique Marseille (Legolas),1.0,2.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,48:38,Krasnodar SRL,FC Rostov SRL,2.0,0.0
+Soccer,"GT G-26 League, Electronic Leagues",1st half,6:00,Olympique Lyonnais (Spash),PAOK Thessaloniki (Ra),1.0,2.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,66:41,Krasnodar SRL,FC Rostov SRL,2.0,0.0
+Soccer,"Sunday League Premier Division Reserve,",2nd half,70:11,Maddington White City FC,Hamersley Rovers (R),1.0,2.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,69:41,Krasnodar SRL,FC Rostov SRL,2.0,0.0
+Soccer,"NPL, New South Wales, Australia",2nd half,65:11,Sydney Utd,Wollongong,3.0,0.0
+Soccer,"Sunday League Premier Division Reserve,",2nd half,73:12,Maddington White City FC,Hamersley Rovers (R),1.0,2.0
+Soccer,"GT G-26 League, Electronic Leagues",2nd half,8:51,FC Inter Milano (Crysis),Olympique Lyonnais (Spash),4.0,0.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,72:42,Krasnodar SRL,FC Rostov SRL,2.0,0.0
+Soccer,"NPL, New South Wales, Australia",2nd half,68:12,Sydney Utd,Wollongong,3.0,0.0
+Soccer,"Sunday League Premier Division Reserve,",2nd half,76:12,Maddington White City FC,Hamersley Rovers (R),1.0,2.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,71:56,PFK Akhmat Grozny SRL,CSKA Moscow SRL,1.0,2.0
+Soccer,"Germany Cyber Stars League, Electronic Leagues",2nd half,8:54,Borussia Monchengladbach (Carlwhizzer),FC Bayern Munich (Praym),3.0,0.0
+Soccer,"Germany Cyber Stars League, Electronic Leagues",2nd half,7:09,TSG 1899 Hoffenheim (Critic),FC Koln (Ever),2.0,0.0
+Soccer,"Russia Premier League SRL, Simulated Reality League",2nd half,75:42,Krasnodar SRL,FC Rostov SRL,2.0,0.0
+Soccer,"Sunday League Premier Division Reserve,",2nd half,79:12,Maddington White City FC,Hamersley Rovers (R),1.0,2.0
+Soccer,"NSW Premier League 2, Australia",2nd half,72:56,Central Coast,Hakoah,2.0,0.0
+Soccer,"Sunday League Premier Division Reserve,",2nd half,82:13,Maddington White City FC,Hamersley Rovers (R),1.0,2.0
+Soccer,"Gold Coast Prem. League, Australia",2nd half,72:37,Surfers Par.,Coomera,1.0,2.0
+Soccer,"NSW Premier League 2, Australia",2nd half,75:57,Central Coast,Hakoah,2.0,0.0
+Soccer,"Sunday League Premier Division Reserve,",2nd half,85:13,Maddington White City FC,Hamersley Rovers (R),1.0,2.0
+Soccer,"Gold Coast Prem. League, Australia",2nd half,75:46,Surfers Par.,Coomera,1.0,2.0
+Soccer,"NSW Premier League 2, Australia",2nd half,78:57,Central Coast,Hakoah,2.0,0.0
+Soccer,"Sunday League Premier Division Reserve,",2nd half,88:14,Maddington White City FC,Hamersley Rovers (R),1.0,2.0

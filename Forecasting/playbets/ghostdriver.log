@@ -1,0 +1,19 @@
+[INFO  - 2020-08-19T18:46:15.488Z] GhostDriver - Main - running on port 60074
+[INFO  - 2020-08-19T18:46:19.930Z] Session [457a0d40-e24c-11ea-9d57-87788ff4413c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Windows NT 6.2; WOW64) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2020-08-19T18:46:19.930Z] Session [457a0d40-e24c-11ea-9d57-87788ff4413c] - page.customHeaders:  - {}
+[INFO  - 2020-08-19T18:46:19.930Z] Session [457a0d40-e24c-11ea-9d57-87788ff4413c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"windows-8.1-32bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2020-08-19T18:46:19.930Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 457a0d40-e24c-11ea-9d57-87788ff4413c
+[ERROR - 2020-08-19T18:46:40.854Z] Session [457a0d40-e24c-11ea-9d57-87788ff4413c] - page.onError - msg: TypeError: Type error
+
+  phantomjs://platform/console++.js:263 in error
+[ERROR - 2020-08-19T18:46:40.855Z] Session [457a0d40-e24c-11ea-9d57-87788ff4413c] - page.onError - stack:
+  warn (https://collection.decibelinsight.net/i/13950/332996/di.js:51)
+  U (https://collection.decibelinsight.net/i/13950/332996/di.js:51)
+  processQueue (https://collection.decibelinsight.net/i/13950/332996/di.js:53)
+  start (https://collection.decibelinsight.net/i/13950/332996/di.js:53)
+  (anonymous function) (https://collection.decibelinsight.net/i/13950/332996/di.js:51)
+  g (https://collection.decibelinsight.net/i/13950/332996/di.js:51)
+
+  phantomjs://platform/console++.js:263 in error
+[INFO  - 2020-08-19T18:51:15.488Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2020-08-19T18:56:15.497Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW

@@ -35,7 +35,7 @@ def readtext(text):
     #  Clean ans noramalization
     replacer1 = ['’','‘', '•', '“', '”']
     replacer2 = ['–', "#", "[…]", "→", "_", "—", "", "‐"]
-    # text = ' '.join(text2.split())
+    text = ' '.join(text2.split())
     for i in replacer1:
         text = text.replace(i, '')
     for i in replacer2:
