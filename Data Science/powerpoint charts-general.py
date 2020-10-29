@@ -19,7 +19,7 @@ from pptx.enum.chart import XL_CHART_TYPE
 folder = r"C:\Users\user\Documents\2020-Kalkaal Speciality Hospital\Abdullah\Daily Data"
 now = datetime.now()
 today = now.strftime("%d %B")
-today = "September"
+today = "october"
 columns = ["DOCTOR", 'No/P', 'Biochemistry', 'Hormone', 'hematology', 'serology', 'Urine', 'Stool', 'Coag', 'Semen', 'Swab', 'culture']
 bigdata = pd.DataFrame(columns)
 #search file
@@ -38,6 +38,7 @@ for root, dirs, names in os.walk(folder):
             #fh = fh.set_index("DOCTOR")
             bigdata = bigdata.append(fh)
 fh = bigdata[columns].groupby("DOCTOR").sum()
+fh.to_excel("october1.xlsx")
 #fh.drop_duplicates(inplace = True)
 prs = Presentation(r"C:\Users\user\Documents\2020-Kalkaal Speciality Hospital\Abdullah\Presentation1.pptx")
 _slide_layout = prs.slide_layouts[5]
@@ -84,8 +85,7 @@ def presentation():
 
         # define chart data ---------------------
         chart_data = CategoryChartData()
-        df = pd.DataFrame(fh[fh.index, fh[i]])
-        print(df)
+        #df = pd.DataFrame(fh[fh.index, fh[i]])print(df)
         chart_data.categories = [l for l in fh.index]
         #chart_data.categories = [l for l in fh.index[1:]]
         

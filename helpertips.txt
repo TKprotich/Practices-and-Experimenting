@@ -3,7 +3,7 @@ CREATE THE LINK repository ON GITHUB TO PUSH TO IT
 2. git status
 3. git add --all
 4. git commit -m "Third commit"
-5. git remote add origin remote repository URL: git remote add origin https://github.com/username/repository
+5. git remote add origin remote repository URL: git remote add origin https://github.com/marchemjor/Hilarious-Patterns
 ####Sets the new remote
 6. git remote -v
 ######Verifies the new remote U

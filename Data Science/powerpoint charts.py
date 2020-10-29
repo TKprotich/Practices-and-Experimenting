@@ -19,7 +19,7 @@ from pptx.enum.chart import XL_CHART_TYPE
 folder = r"C:\Users\user\Documents\2020-Kalkaal Speciality Hospital\Abdullah\Daily Data"
 now = datetime.now()
 today = now.strftime("%d %B")
-today = "14 October Per Doctors"
+today = "26 October Per Doctors"
 columns = ["DOCTOR", 'No/P', 'Biochemistry', 'Hormone', 'hematology', 'serology', 'Urine', 'Stool', 'Coag', 'Semen', 'Swab', 'culture']
 bigdata = pd.DataFrame(columns)
 #search file
@@ -37,7 +37,7 @@ for root, dirs, names in os.walk(folder):
             fh = fh.drop([1])
             fh = fh.dropna()
             fh = fh.set_index("DOCTOR")
-print(fh)         
+       
 fh.drop_duplicates(inplace = True)
 #fh = fh.T
 prs = Presentation(r"C:\Users\user\Documents\2020-Kalkaal Speciality Hospital\Abdullah\Presentation1.pptx")
@@ -83,7 +83,7 @@ def presentation(fh):
         
         # define chart data ---------------------
         chart_data = CategoryChartData()
-        chart_data.categories = [l for l in fh1.index]
+        chart_data.categories = [l for l in fh1.index[1:]]
         #chart_data.add_series('Series 1', (k for k in fh[i]))
         chart_data.add_series('Series 1', (k for k in fh1[i][1:]))
         # add chart to slide --------------------
