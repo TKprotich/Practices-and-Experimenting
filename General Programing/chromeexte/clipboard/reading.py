@@ -66,7 +66,7 @@ text = text.lower()
 text = text.replace('we’ll', 'we will')
 text = text.replace('you’ll', 'you will')
 text = text.replace('• ', '( )')
-text = ' '.join(text2.split())
+#text = ' '.join(text2.split())
 
 #Meta_Data
 # Say

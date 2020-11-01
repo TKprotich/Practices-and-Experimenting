@@ -19,7 +19,7 @@ from pptx.enum.chart import XL_CHART_TYPE
 folder = r"C:\Users\user\Documents\2020-Kalkaal Speciality Hospital\Abdullah\Daily Data"
 now = datetime.now()
 today = now.strftime("%d %B")
-today = "26 October Per Doctors"
+today = "31 October Per Doctors"
 columns = ["DOCTOR", 'No/P', 'Biochemistry', 'Hormone', 'hematology', 'serology', 'Urine', 'Stool', 'Coag', 'Semen', 'Swab', 'culture']
 bigdata = pd.DataFrame(columns)
 #search file
