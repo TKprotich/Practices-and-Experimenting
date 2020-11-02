@@ -38,8 +38,6 @@ def dgdmydict( fh, analyzecolumn, filtercolumn, filteritem, DELIMETER):
     fh1 = fh[fh[filtercolumn] == filteritem]
     return counttext(fh1[analyzecolumn].str.lower().str.split(DELIMETER))
 
-
-
 def analyzenow(fh, analyzecolumn, filtercolumn, filteritem):
     if analyzecolumn == 'GENDER':
         DELIMETER = " "
