@@ -5,14 +5,11 @@ import dash_core_components as dcc
 from assets import patient_demographics, patient_med_readmit
 from dash.dependencies import Input, Output
 
-
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets)
 server = app.server
 colors = {"background": "#F3F6FA", "background_div": "white", 'text': '#009999'}
 app.config['suppress_callback_exceptions']= True
-
-
 
 app.layout = html.Div(style={'backgroundColor': colors['background']}, children=[
     html.H1('Patient Data Dashboard', style={
@@ -20,7 +17,7 @@ app.layout = html.Div(style={'backgroundColor': colors['background']}, children=
             'color': colors['text']
         }),
 
-      dcc.Tabs(id="tabs", className="row", style={"margin": "2% 3%","height":"20","verticalAlign":"middle"}, value='dem_tab', children=[
+      dcc.Tabs(id="tabs", className="row", style={"margin": "2% 3%","height":"20","verticalAlign":"middle"}, value='med_tab', children=[
         dcc.Tab(label='Summary of Patients in the Hospital', value='dem_tab'),
         dcc.Tab(label='Morbidity, deaths and Healthcare acquired  infections(HAI)', value='med_tab')
         # dcc.Tab(label='Re-admissions', value='readmit_tab')
@@ -35,7 +32,5 @@ def render_content(tab):
         return patient_demographics.tab_1_layout
     elif tab == 'med_tab':
         return patient_med_readmit.tab_2_layout
-
-
 if __name__ == '__main__':
-    app.run_server(debug=True)
+    app.run_server(port=8000)

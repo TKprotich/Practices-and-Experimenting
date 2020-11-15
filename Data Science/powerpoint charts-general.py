@@ -16,10 +16,10 @@ import pandas as pd
 from pptx.chart.data import ChartData
 from pptx.enum.chart import XL_CHART_TYPE
 
-folder = r"C:\Users\user\Documents\2020-Kalkaal Speciality Hospital\Abdullah\Daily Data"
+folder = r"C:\Users\user\Downloads"
 now = datetime.now()
 today = now.strftime("%d %B")
-today = "october"
+today = "02 November Per Doctors"
 columns = ["DOCTOR", 'No/P', 'Biochemistry', 'Hormone', 'hematology', 'serology', 'Urine', 'Stool', 'Coag', 'Semen', 'Swab', 'culture']
 bigdata = pd.DataFrame(columns)
 #search file
@@ -38,7 +38,7 @@ for root, dirs, names in os.walk(folder):
             #fh = fh.set_index("DOCTOR")
             bigdata = bigdata.append(fh)
 fh = bigdata[columns].groupby("DOCTOR").sum()
-fh.to_excel("october1.xlsx")
+fh.to_excel(f"{today}.xlsx")
 #fh.drop_duplicates(inplace = True)
 prs = Presentation(r"C:\Users\user\Documents\2020-Kalkaal Speciality Hospital\Abdullah\Presentation1.pptx")
 _slide_layout = prs.slide_layouts[5]

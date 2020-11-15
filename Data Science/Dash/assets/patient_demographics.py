@@ -37,7 +37,7 @@ tab_1_layout = html.Div([
                             id='dem-graph-1',
                             figure= genderfig
                         )
-                    ], className="four columns"),
+                    ], className="row"),
 
                     html.Div([
                         html.H6('COROLORRY', style={'textAlign': 'center'}),
@@ -45,7 +45,7 @@ tab_1_layout = html.Div([
                             id='dem-graph-2',
                             figure = corfig
                         )
-                    ], className="four columns"),
+                    ], className="six columns"),
 
                     html.Div([
                         html.H6('Age', style={'textAlign': 'center'}),
@@ -55,7 +55,7 @@ tab_1_layout = html.Div([
                         )
                     ], className="four columns")
 
-                ], className="row", style={"margin": "1% 3%"}),
+                ], className="three columns", style={"margin": "1% 3%"}),
 
                 html.Div([
                     html.Div([
@@ -71,7 +71,7 @@ tab_1_layout = html.Div([
                                 }
                             }
                         )
-                        ], className="six columns"),
+                        ], className="three columns"),
 
                     html.Div([
                         html.H6('Age - Gender Disrtibution', style={'textAlign': 'center'}),
